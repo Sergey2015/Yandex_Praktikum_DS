@@ -9,7 +9,7 @@ This repository contains my projects from the "Data Science Specialist" training
 
 <li><a href=''>Предобработка данных / Data Processing - Project_01</a></li>
 <li><a href=''>Исследовательский анализ данных / Exploratory data analysis - Project_02</a></li>
-<li><a href=''>Статистический анализ данных / Statistical analysis of data - Project_03</a></li>
+<li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%81%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8.ipynb'>Статистический анализ данных / Statistical analysis of data - Project_03</a></li>
 <li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80.ipynb'>Сборный проект / Common project - Project_04</a></li>
 </ul>
 <h3>Модуль 02 / Module 02</h3><ul>
