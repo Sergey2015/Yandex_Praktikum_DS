@@ -22,7 +22,7 @@ This repository contains my projects from the "Data Science Specialist" training
 
 <li>Линейная алгебра / Linear algebra - Project_09</li>
 <li>Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting) - Project_10</li>
-<li>Временные ряды / Time series - Project_11</li>
+<li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8.ipynb'>Временные ряды / Time series - Project_11</a></li>
 <li>Машинное обучение для текстов / Machine learning for texts - Project_12</li>
 
 <h3>Модуль 04 / Module 04</h3>
