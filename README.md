@@ -15,7 +15,7 @@ This repository contains my projects from the "Data Science Specialist" training
 <h3>Модуль 02 / Module 02</h3><ul>
 <li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2.ipynb'>Введение в машинное обучение / Introduction to machine learning - Project_05</a></li>
 <li><a href=''>Обучение с учителем / Supervised learning - Project_06</a></li>
-<li><a href=''>Машинное обучение в бизнесе / Machine learning in business - Project_07</a></li>
+<li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD%D1%8B%C2%B6.ipynb'>Машинное обучение в бизнесе / Machine learning in business - Project_07</a></li>
 <li><a href=''>Сборный проект / Common project - Project_08</a></li></ul>
 
 <h3>Модуль 03 / Module 03</h3><ul>
