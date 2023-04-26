@@ -28,6 +28,6 @@ This repository contains my projects from the "Data Science Specialist" training
 <h3>Модуль 04 / Module 04</h3>
 
 <li>Извлечение данных / Data retrieval - Project_13</li>
-<li>Компьютерное зрение / Computer vision - Project_14</li>
+<li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5..ipynb'>Компьютерное зрение / Computer vision - Project_14</a></li>
 <li>Рекомендации и обучение без учителя / Unsupervised learning</li>
 <li>Выпускной проект / Final project - Project_final</li>
