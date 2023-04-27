@@ -27,8 +27,7 @@ This repository contains my projects from the "Data Science Specialist" training
 </ul>
 <h3>Модуль 04 / Module 04</h3><ul>
 
-<li><a href=''>Извлечение данных / Data retrieval - Project_13</a></li>
+<li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main'>Извлечение данных / Data retrieval - Project_13</a></li>
 <li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5..ipynb'>Компьютерное зрение / Computer vision</a></li>
-<li><a href=''>Рекомендации и обучение без учителя / Unsupervised learning</a></li>
 <li><a href='https://github.com/Sergey2015/Yandex_Praktikum_DS/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B%20%D0%BF%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D0%BB%D0%B8.ipynb'>Выпускной проект / Final project</a></li>
 </ul>
